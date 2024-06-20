@@ -1,4 +1,4 @@
-## **Bem vindo ao meu perfil do GitHub 💙💙**
+## **Bem vindo ao meu perfil do GitHub :D **
 
  Meu nome Luan Carvalho.
 Sou um aluno da plataforma de estudos **Alura**!
