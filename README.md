@@ -1,16 +1,18 @@
-## Hi there 👋
+## **Bem vindo ao meu perfil do GitHub 💙💙**
 
-<!--
-**luancsantos-png/luancsantos-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome Luan Carvalho.
+Sou um aluno da plataforma de estudos **Alura**!
+Estou estudando a linguagem de programação ***javascript***.
 
-Here are some ideas to get you started:
+Estarei utilizando o GitHub para guardar e organizar meus projetos, e futuros também.
+ Caso queira me contatar, estarei deixando meu email aqui em baixo
+                           
+                          |
+                          |
+                          |
+                          V
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                  luanatualbr@gmail.com  
+                          
+
+![]![b27aa683fba6f410a571420a9f2b26ff](https://github.com/luancsantos-png/luancsantos-png/assets/173171206/7d8b3e5c-a9bb-4c60-ac05-f01d5a39fc1e)
